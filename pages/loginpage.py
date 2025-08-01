@@ -4,7 +4,7 @@ import mysql.connector
 import os
 
 admin_username = "admin"
-admin_password = "admin"
+admin_password = os.environ.get('adminPWD')
 
 # Set the page configuration
 st.set_page_config(
