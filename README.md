@@ -1,4 +1,4 @@
-# 🚗 PrimeMotors Car Rental Dealership Management System
+# 🚗 PrimeMotors Car Rental Dealership Management System 🚗
 
 Welcome to **PrimeMotors** – a modern, feature-rich Car Rental Database Management System built for seamless car rental management, customer experience, and robust admin control.
 
