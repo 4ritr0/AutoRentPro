@@ -83,19 +83,7 @@ See [`test.sql`](test.sql) for full schema and sample data.
    ```sh
    streamlit run homepage.py
    ```
-
----
-
-## 🖼️ Screenshots
-
-> _Add screenshots of the homepage, car details, admin dashboard, and booking pages here._
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open issues or submit pull requests for improvements, bug fixes, or new features.
-
+   
 ---
 
 ## 📄 License
