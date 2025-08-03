@@ -10,9 +10,6 @@ Welcome to **PrimeMotors** – a modern, feature-rich Car Rental Database Manage
 - [Tech Stack](#tech-stack)
 - [Database Design](#database-design)
 - [Setup & Usage](#setup--usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -83,9 +80,3 @@ See [`test.sql`](test.sql) for full schema and sample data.
    ```sh
    streamlit run homepage.py
    ```
-   
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
