@@ -65,7 +65,7 @@ See [`test.sql`](test.sql) for full schema and sample data.
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/4ritr0/PrimeMotors.git
-   cd AutoRentPro
+   cd PrimeMotors
    ```
 2. **Install dependencies:**
    ```sh
